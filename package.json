@@ -17,13 +17,20 @@
     "type": "git",
     "url": "https://github.com/arastu/iran-administrative-divisions.git"
   },
+  "keywords": [
+    "iran",
+    "administrative divisions",
+    "countries",
+    "world",
+    "json",
+    "xml",
+    "persian",
+    "farsi"
+  ],
   "author": "Touhid Arastu <touhid.arastu@gmail.com> (http://arastu.ir/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/arastu/iran-administrative-divisions-json/issues"
   },
-  "homepage": "https://github.com/arastu/iran-administrative-divisions-json#readme",
-  "keywords": {
-    "iran","administrative-divisions","countries","world","json","xml","persian","farsi"
-  }
+  "homepage": "https://github.com/arastu/iran-administrative-divisions-json#readme"
 }
