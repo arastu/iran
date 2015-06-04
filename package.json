@@ -1,0 +1,29 @@
+{
+  "name": "iran",
+  "version": "0.0.1",
+  "description": "List of Iran cities in json and xml format based on administrative divisions of Iran.",
+  "main": "dist/iran.js",
+  "dependencies": {
+    "js2xmlparser": "^0.1.9",
+    "jsonfile": "^2.0.1",
+    "persianjs": "^0.3.0",
+    "striptags": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arastu/iran-administrative-divisions.git"
+  },
+  "author": "Touhid Arastu <touhid.arastu@gmail.com> (http://arastu.ir/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arastu/iran-administrative-divisions-json/issues"
+  },
+  "homepage": "https://github.com/arastu/iran-administrative-divisions-json#readme",
+  "keywords": {
+    "iran","administrative-divisions","countries","world","json","xml","persian","farsi"
+  }
+}
