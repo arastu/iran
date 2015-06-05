@@ -9,9 +9,9 @@ Each province is further subdivided into counties called shahrestan (Persian: ش
 
 #Downloads (Right-click, and use "Save As")
 
- Version 0.1.0 [Source code (zip)](https://github.com/arastu/iran/archive/0.1.0.zip)
+ Version 1.0.0 [Source code (zip)](https://github.com/arastu/iran/archive/1.0.0.zip)
 
- Version 0.1.0 [Source code (tar.gz)](https://github.com/arastu/iran/archive/0.1.0.tar.gz)
+ Version 1.0.0 [Source code (tar.gz)](https://github.com/arastu/iran/archive/1.0.0.tar.gz)
 
 #Installation
 

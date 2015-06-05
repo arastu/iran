@@ -2,7 +2,7 @@ var fs = require('fs');
 var parser = require('./lib/parser.js');
 var js2xmlparser = require("js2xmlparser");
 
-fs.readFile('./iran_administrative_divisions_json.html', 'utf8', function read(err, data) {
+fs.readFile('./iran_cities_in_moi_site.html', 'utf8', function read(err, data) {
   if (err) {
     throw err;
   } else {
@@ -36,7 +36,7 @@ fs.readFile('./iran_administrative_divisions_json.html', 'utf8', function read(e
       '\t}' + '\n' +
       '\n' +
       '\t// Current version.' + '\n' +
-      '\tiran.VERSION = \'0.0.1\';' + '\n' +
+      '\tiran.VERSION = \'1.0.0\';' + '\n' +
       '\n' +
       '\tiran.cities = JSON.parse(\'' + JSON.stringify(data) + '\')' + '\n' +
       '\n' +
