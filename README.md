@@ -22,3 +22,6 @@ Each province is further subdivided into counties called shahrestan (Persian: ش
 ```Bower bower install iran```
 
 ```Angular.js angular.module('yourApp', [‘iran’])…```
+
+# Related Project
+- [iran-locality-database](https://github.com/jafaripur/iran-locality-database) by (@Jafaripur)[https://github.com/jafaripur]
