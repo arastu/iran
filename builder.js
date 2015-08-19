@@ -2,7 +2,7 @@ var fs = require('fs');
 var parser = require('./lib/parser.js');
 var js2xmlparser = require("js2xmlparser");
 
-fs.readFile('./iran_cities_in_moi_site.html', 'utf8', function read(err, data) {
+fs.readFile('./iran_cities_in_moi_site.crawl', 'utf8', function read(err, data) {
   if (err) {
     throw err;
   } else {
