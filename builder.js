@@ -7,7 +7,7 @@ fs.readFile('./iran_cities_in_moi_site.crawl', 'utf8', function read(err, data) 
     throw err;
   } else {
     //convert html string to javascript object
-    var data = parser.pars(data);
+    var data = parser.parse(data);
 
     var json = JSON.stringify(data, null, 2);
     var xml = JSON.stringify({'city':data});
