@@ -1,9 +1,10 @@
 {
   "name": "iran",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "List of Iran cities in json and xml format based on administrative divisions of Iran.",
   "main": "dist/iran.js",
   "dependencies": {
+    "jalaali-js": "^0.2.0",
     "js2xmlparser": "^0.1.9",
     "jsonfile": "^2.0.1",
     "persianjs": "^0.3.0",

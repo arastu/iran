@@ -36,7 +36,7 @@ fs.readFile('./iran_cities_in_moi_site.crawl', 'utf8', function read(err, data) 
       '\t}' + '\n' +
       '\n' +
       '\t// Current version.' + '\n' +
-      '\tiran.VERSION = \'1.0.1\';' + '\n' +
+      '\tiran.VERSION = \'1.0.2\';' + '\n' +
       '\n' +
       '\tiran.cities = JSON.parse(\'' + JSON.stringify(data) + '\')' + '\n' +
       '\n' +
