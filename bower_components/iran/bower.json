@@ -1,0 +1,28 @@
+{
+  "name": "iran",
+  "version": "1.0.2",
+  "homepage": "https://github.com/arastu/iran",
+  "authors": [
+    "Touhid Arastu <touhid.arastu@gmail.com> (http://arastu.ir/)"
+  ],
+  "description": "List of Iran cities in json and xml format based on administrative divisions of Iran.",
+  "main": "dist/iran.js",
+  "keywords": [
+    "iran",
+    "administrative divisions",
+    "countries",
+    "world",
+    "json",
+    "xml",
+    "persian",
+    "farsi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
