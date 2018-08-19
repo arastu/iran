@@ -10,9 +10,12 @@
     "persianjs": "^0.3.0",
     "striptags": "^2.0.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
